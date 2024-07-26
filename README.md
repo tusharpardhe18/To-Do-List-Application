@@ -1,8 +1,12 @@
 # To-Do-List-Application
-Functionality: You can mention that you built a command-line to-do list application with functionalities like adding, displaying, searching, and deleting tasks. <br>
-Data Persistence: Briefly explain that the application uses a text file ("todo.txt") to store tasks persistently, allowing users to save their work. <br>
-User Interface: While it's a command-line application, you can mention you used basic functionalities to create a user-friendly menu for interaction. <br>
-Programming Skills: This project showcases your proficiency in C++, including concepts like: <br>
+**Functionality:** <br>
+You can mention that you built a command-line to-do list application with functionalities like adding, displaying, searching, and deleting tasks. <br>
+**Data Persistence:** <br>
+Briefly explain that the application uses a text file ("todo.txt") to store tasks persistently, allowing users to save their work. <br>
+**User Interface:** <br> 
+While it's a command-line application, you can mention you used basic functionalities to create a user-friendly menu for interaction. <br>
+**Programming Skills:** <br>
+This project showcases your proficiency in C++, including concepts like: <br>
 File handling (using ifstream and ofstream)<br>
 Working with structures (todolist)<br>
 User input handling (cin) <br>
