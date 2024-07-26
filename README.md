@@ -16,4 +16,4 @@ Loops (while)<br>
 
 Developed a command-line to-do list application allowing users to add, view, search, and delete tasks.<br>
 Utilized text files for data persistence and implemented user interaction through a basic menu system.<br>
-This project demonstrates proficiency in C++ fundamentals like file handling, data structures, and user input/output.
+Demonstrated proficiency in C++ fundamentals like file handling, data structures, and user input/output.
