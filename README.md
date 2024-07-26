@@ -6,7 +6,6 @@ Briefly explain that the application uses a text file ("todo.txt") to store task
 **User Interface:** <br> 
 While it's a command-line application, you can mention you used basic functionalities to create a user-friendly menu for interaction. <br>
 **Programming Skills:** <br>
-This project showcases your proficiency in C++, including concepts like: <br>
 File handling (using ifstream and ofstream)<br>
 Working with structures (todolist)<br>
 User input handling (cin) <br>
